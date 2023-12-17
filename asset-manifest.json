@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/E-shoes/static/css/main.bab432b5.css",
+    "main.js": "/E-shoes/static/js/main.445ecaa4.js",
+    "static/media/bg-home.jpg": "/E-shoes/static/media/bg-home.678d17f32a5c8d4e92ee.jpg",
+    "index.html": "/E-shoes/index.html",
+    "main.bab432b5.css.map": "/E-shoes/static/css/main.bab432b5.css.map",
+    "main.445ecaa4.js.map": "/E-shoes/static/js/main.445ecaa4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bab432b5.css",
+    "static/js/main.445ecaa4.js"
+  ]
+}
