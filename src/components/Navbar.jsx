@@ -1,6 +1,5 @@
 import React from "react";
 
-
 import { ShoppingCartOutlined, UserOutlined } from "@ant-design/icons";
 
 const Navbar = () => {
@@ -8,7 +7,7 @@ const Navbar = () => {
     <nav className="flex justify-between items-center w-[95%] ">
       {/* First Half */}
       <div className="flex gap-9 font-medium font-sans items-center h-[50px]">
-        <div className="tracking-[7px] font-semibold text-3xl">PLASHOE</div>
+        <div className="tracking-[7px] font-semibold text-3xl">SEC-C-SHOES</div>
         <div className="menu flex gap-5 items-center h-full">
           <div className="cursor-pointer text-sm font-medium text-gray-500 hover:text-black  duration-300">
             MEN
