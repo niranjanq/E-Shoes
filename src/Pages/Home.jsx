@@ -318,10 +318,8 @@ const Home = () => {
           />
         </div>
       </section>
-      <section>
-        <div className="py-10 text-3xl font-semibold">
-          Our Customers speak for us
-        </div>
+      <section className="bg-gray-300 w-[95%] text-center">
+        <p>© Copyright all rights reserved</p>
       </section>
     </main>
   );
